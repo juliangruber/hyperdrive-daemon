@@ -16,11 +16,11 @@ Steps to reproduce the behavior.
 **Expected Behavior**
 What did you expect to happen?
 
-** OS **
+**OS**
 
-** Node version **
+**Node version**
 
-** Was the daemon installed from NPM or bundled with Beaker? **
+**Was the daemon installed from NPM or bundled with Beaker?**
 
 Add any other context about the problem here.
 
